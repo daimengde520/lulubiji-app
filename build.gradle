@@ -1,0 +1,7 @@
+// 顶层构建文件（无需在此声明插件版本，已在 app/build.gradle 中指定）
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
