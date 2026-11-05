@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">路路笔记</string>
+    <!-- 应用入口：保留推广渠道参数 c=m6JX2F -->
+    <string name="home_url">https://vip008.lulubiji.com/s?c=m6JX2F</string>
+</resources>
